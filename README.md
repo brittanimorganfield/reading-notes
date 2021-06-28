@@ -11,4 +11,4 @@
 ### Introduction
 Hi! I'm Brittani and i'm excited to start this class.
 
-- https://github.com/brittanimorganfield
+- [My Github Profile](https://github.com/brittanimorganfield)
