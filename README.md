@@ -1,1 +1,7 @@
-# reading-notes
+# Growth Mindest Notes
+
+## heading
+
+### subheading
+
+### subheading
