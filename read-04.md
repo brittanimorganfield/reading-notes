@@ -4,25 +4,25 @@
 * Before building anything with code, understand what you're doing!
 
 Wireframes can be drawn by hand or you can use software like Invision or Balsamiq.
-Hand-drawn wireframes are easier to use for beginners because htey can easily be changed
+Hand-drawn wireframes are easier to use for beginners because they can easily be changed.
 
-### Ways different designers can structure the process from design to implementation:
-- Wireframe > Interactive Prototype > Visual > Design <br>
-- Sketch > Code <br>
-- Sketch > Wireframe > Hi-Def Wireframe > Visual > Code <br>
-- ketch > Wireframe > Visual > Code <br>
+> ### Ways different designers can structure the process from design to implementation:
+> - Wireframe > Interactive Prototype > Visual > Design <br>
+> - Sketch > Code <br>
+> - Sketch > Wireframe > Hi-Def Wireframe > Visual > Code <br>
+> - ketch > Wireframe > Visual > Code <br>
 
 ### Tools for wireframing
 - UXPin
 - InVision
 - Wireframe.cc
 
-Before creating you wireframe, understand who your audience is so you can design you website to benefit them most.
+Before creating your wireframe, understand who your audience is so you can design your website to benefit them most.
 Understanding where they'll come from and how the pages will flow together is very important.
 
-After creating your prototype, you can use tools like Proto.io or Adobe XD.
+After building your prototype, you can use tools like Proto.io or Adobe XD to create it.
 
-## Good wireframes always have these characteristics
+## Good wireframes always have these characteristics:
 - Clarity
 - Confidence
 - Simplicity
