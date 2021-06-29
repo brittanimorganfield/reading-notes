@@ -29,9 +29,9 @@ After creating your prototype, you can use tools like Proto.io or Adobe XD.
 
 # HTML
 HTML (Hypertext Markup Language) is the code that is used to structure a web page and its content
-Example: My cat is very grump vs "<p>My cat is very grumpy</p>"
+Example: My cat is very grump vs "</p\>My cat is very grumpy</p\>"
 
 # Semantics
 > Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
-Semantic elements include "<h1>" "<article>" 
+Semantic elements include "h1" "article" 
 
