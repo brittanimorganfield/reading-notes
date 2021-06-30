@@ -1,3 +1,5 @@
+## Welcome to my notes! You'll find most, if not all, of my work here
+
 - [My Github Profile](https://github.com/brittanimorganfield)
 - [Growth Mindset Notes](https://brittanimorganfield.github.io/reading-notes/growth-mindset-notes)
 - [Markdown Notes](https://brittanimorganfield.github.io/reading-notes/learning-markdown)
