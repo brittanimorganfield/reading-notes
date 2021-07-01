@@ -6,4 +6,4 @@
 - [The Coders Computer](https://brittanimorganfield.github.io/reading-notes/the-coders-computer)
 - [CSS Notes](https://brittanimorganfield.github.io/reading-notes/css-notes)
 - [JS Notes](https://brittanimorganfield.github.io/reading-notes/java-notes)
-[Program Java](https://brittanimorganfield.github.io/reading-notes/program-java)
+- [Program Java](https://brittanimorganfield.github.io/reading-notes/program-java)
