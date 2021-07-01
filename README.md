@@ -7,3 +7,4 @@
 - [CSS Notes](https://brittanimorganfield.github.io/reading-notes/css-notes)
 - [JS Notes](https://brittanimorganfield.github.io/reading-notes/java-notes)
 - [Program Java](https://brittanimorganfield.github.io/reading-notes/program-java)
+- [Operators & Loops](https://brittanimorganfield.github.io/reading-notes/operators-loops)
