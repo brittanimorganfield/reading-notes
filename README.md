@@ -1,4 +1,7 @@
-## Welcome to my notes! You'll find most, if not all, of my work here
+## Welcome to my notes! You'll find most, if not all, of my work here.
+
+### About Me
+- Hi! My name is Brittani Morganfield. I've always been interested in a lot and have done a lot since a very young age. From fashion and making magazines in school to doing marketing and building websites. If I say I want to do something, 9 times out of 10, it's going to get done. I currently work in Marketing as a Social Media Assistant + Web Designer and I love it! I'm excited to start this class because it'll be the first program I've done since graduation high school a  couple of weeks ago. I can't wait to learn new skills on this new journey and plan I have set for myself,
 
 - [My Github Profile](https://github.com/brittanimorganfield)
 - [Growth Mindset Notes](https://brittanimorganfield.github.io/reading-notes/growth-mindset-notes)
