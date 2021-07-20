@@ -15,7 +15,7 @@
 - [Operators & Loops](https://brittanimorganfield.github.io/reading-notes/operators-loops)
 
 ## Code 201 Reading Notes
-- _New notes start here_
+- _- [HTML & Java Textbook Notes](https://brittanimorganfield.github.io/reading-notes/class-02)
 
 
 
