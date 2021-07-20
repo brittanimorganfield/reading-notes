@@ -16,7 +16,7 @@
 
 ## Code 201 Reading Notes
 - [HTML & Java Textbook Notes](https://brittanimorganfield.github.io/reading-notes/class-02)
-
+- [HTML Lists, Control Flow with JS, and the CSS Box Model](https://brittanimorganfield.github.io/reading-notes/html-js-css)
 
 
 > "Effort makes you. You will regret someday if you don't do your best now. Don't think it's too late but keep working on it. It takes time, but there's nothing that gets worse due to practicing." - BTS
