@@ -15,16 +15,16 @@ Definition lists are made up of terms along with the definition.
 
 Boxes are sized just enough to fit whatever content is inside of it. The most common ways to size a box are with percentages and pixels.
 
-If you have overflowing content, there's a property that tells the browser there's content inside of the box that is larger than its actual size. you can either hide the text or allow the user to scroll.
+If you have overflowing content, there's a property that tells the browser there's content inside of the box that is larger than its actual size. You can either hide the text or allow the user to scroll.
 
-every box has 3 available properties
+Every box has 3 available properties:
 - Border
 - Margin
 - Padding
 
-Without these things, you text would be on the edge of the box and would make it hard for users to read.
+Without these things, your text would be on the edge of the box and would make it hard for users to read.
 
 ## Control Flow with JS
 
 An array is a type of variable that stores a list of values.
-You shoudl consider using it when you;re working on a list or set of values that are related. For example, a shopping list.
+You should consider using it when you're working on a list or set of values that are related. For example, a shopping list.
