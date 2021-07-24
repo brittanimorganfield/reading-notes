@@ -10,12 +10,8 @@ while (guessJobs) {
 let guessJobs = prompt("Has Brittani worked 3 jobs?");
 
 {
-    if (response === "yes") {
-        guessJobs = false;
+    if (response === "yes")
     
     alert("You're right!"); 
-     } else {
-    alert("Not quite... Try again!"); 
+     } 
     }
-}
-}
