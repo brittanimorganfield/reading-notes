@@ -18,6 +18,6 @@
 - [HTML & Java Textbook Notes](https://brittanimorganfield.github.io/reading-notes/class-02)
 - [HTML Lists, Control Flow with JS, and the CSS Box Model](https://brittanimorganfield.github.io/reading-notes/html-js-css)
 - [JS Object Literals; The DOM](https://brittanimorganfield.github.io/reading-notes/reading5)
-- [Firms & Events](https://brittanimorganfield.github.io/reading-notes/forms-events)
+- [Forms & Events](https://brittanimorganfield.github.io/reading-notes/forms-events)
 
 > "Effort makes you. You will regret someday if you don't do your best now. Don't think it's too late but keep working on it. It takes time, but there's nothing that gets worse due to practicing." - BTS
